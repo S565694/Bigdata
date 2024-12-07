@@ -1,7 +1,10 @@
 # Bigdata
 
 # *Healthcare Cost Analysis and Prediction*
-
+## *Team members*
+1. SantoshReddy Gurram
+2. Sneha Kancharla
+3. Tejesh Reddy VeeramReddy
 ## *Team Name*
 Data Visionaries
 
